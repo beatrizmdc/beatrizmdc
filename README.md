@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ## Conhecimentos adquiridos 
 
-![image]({https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white})
+[![My Sql Badge]({https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white})]
 
 -Obrigada pela visita! :)
