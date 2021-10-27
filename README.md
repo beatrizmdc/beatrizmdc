@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Sou a Beatriz!
+## Me chamo Beatriz!
 
  
 
 :computer: Sou estudante de Desenvolvimento Web Full-Stack
 
-:house_with_garden: Sou de São Paulo, Capital
+:house_with_garden: São Paulo, Capital
 
 :outbox_tray: Meus objetivos para 2022: criar novos projetos e conseguir um emprego na área
 
