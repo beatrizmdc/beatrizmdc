@@ -33,8 +33,5 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)] https://www.linkedin.com/in/beatriz-medeiros-costa-15572014b/
 
-## Conhecimentos adquiridos 
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 -Obrigada pela visita! :)
