@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 :computer: Sou estudante de Desenvolvimento Web Full-Stack
 
-:house_with_garden: Sou de São Paulo, capital
+:house_with_garden: Sou de São Paulo, Capital
 
-:outbox_tray: Meus objetivos para 2022 são criar novos projetos e conseguir um emprego na área
+:outbox_tray: Meus objetivos para 2022: criar novos projetos e conseguir um emprego na área
 
  
 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ## Conhecimentos adquiridos 
 
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}"/>
 
 -Obrigada pela visita! :)
