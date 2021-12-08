@@ -1,31 +1,13 @@
 ### Olá! 👋
 
-<!--
-**beatrizmdc/beatrizmdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Me chamo Beatriz!
 
- 
+:computer: Sou Desenvolvedora Front-End
 
-:computer: Sou estudante de Desenvolvimento Web Full-Stack
-
-:house_with_garden: São Paulo, Capital
+:house_with_garden: Sou de São Paulo, Capital
 
 :outbox_tray: Meus objetivos para 2022: criar novos projetos e conseguir um emprego na área
 
- 
 
 ## Se conecte comigo
 
